@@ -10,7 +10,7 @@ The goal of the game is to reach a total of 21 or get as close as possible witho
 3. Open Terminal (Command Prompt) in the same folder as the file.
 4. Run the following command:
 
-![Game Screenshot](
+![Game Screenshot](https://github.com/Mks-code1/python-21-game/raw/main/Screenshot.png
 )
 
 
