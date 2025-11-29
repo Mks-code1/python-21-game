@@ -10,7 +10,8 @@ The goal of the game is to reach a total of 21 or get as close as possible witho
 3. Open Terminal (Command Prompt) in the same folder as the file.
 4. Run the following command:
 
-![Game Screenshot]()
+![Game Screenshot](<img width="1477" height="647" alt="image" src="https://github.com/user-attachments/assets/2f8ced0b-a5bc-46ff-987f-c150824c713c" />
+)
 
 
 ## How to Play
